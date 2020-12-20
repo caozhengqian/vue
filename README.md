@@ -1,2 +1,2 @@
 # vue
- vue2.65、vue3.0
+ vue2.611、vue3.0
